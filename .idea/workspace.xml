@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="045e9f37-0ac8-4e52-ad80-a3fe8d2e8a1d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/zerhaz/pl/tutorial12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zerhaz/pl/tutorial13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zerhaz/pl/tutorial11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zerhaz/pl/tutorial11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test_1/zerhaz/pl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test_1/zerhaz/pl/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zerhaz/pl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zerhaz/pl/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,22 +21,20 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tutorial11.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial11.java">
+      <file leaf-file-name="tutorial13.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="498">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,8 +72,10 @@
         <option value="$PROJECT_DIR$/src/zerhaz/pl/tutorial8.java" />
         <option value="$PROJECT_DIR$/src/zerhaz/pl/tutorial9.java" />
         <option value="$PROJECT_DIR$/src/zerhaz/pl/tutorial10.java" />
-        <option value="$PROJECT_DIR$/src/zerhaz/pl/Main.java" />
         <option value="$PROJECT_DIR$/src/zerhaz/pl/tutorial11.java" />
+        <option value="$PROJECT_DIR$/src/zerhaz/pl/tutorial12.java" />
+        <option value="$PROJECT_DIR$/src/zerhaz/pl/Main.java" />
+        <option value="$PROJECT_DIR$/src/zerhaz/pl/tutorial13.java" />
       </list>
     </option>
   </component>
@@ -90,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -99,11 +103,21 @@
               <item name="test_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,6 +126,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_Projects\test_1\src\zerhaz\pl" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,13 +180,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49739584" weight="0.32943678" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49635416" weight="0.32943678" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.503125" side_tool="true" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50416666" side_tool="true" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.496875" weight="0.32943678" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49583334" weight="0.32943678" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -176,7 +195,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.3995749" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -211,14 +230,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial11.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial11.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -320,6 +347,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -327,29 +368,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial11.java">
+    <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zerhaz/pl/tutorial13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
           </folding>
         </state>
       </provider>
